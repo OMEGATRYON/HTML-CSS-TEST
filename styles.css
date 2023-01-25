@@ -1,8 +1,13 @@
-h1 {
-    color: red;
+#header1 {
+    color: orange;
+    background-color: red;
 }
-#dog {
-    color: rebeccapurple;
-    background-color: aqua;
-    font-style: italic;
+#para1 {
+    color: yellow; 
+    background-color: blue;
+    font-style: oblique;
+}
+#para1 {
+    display: flexbox;
+    margin-top: -25px;
 }
